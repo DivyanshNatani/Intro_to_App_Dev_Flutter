@@ -8,7 +8,7 @@ Flutter uses Dart as language for design and logic. Dart is language developed b
 
 ## How should you go about it.
 
-This playlist has 35 videos and it covers from basic to advance Widgets (Flutter is all about Widgets! you will know more about them in Video).
+This [playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) has 35 videos and it covers from basic to advance Widgets (Flutter is all about Widgets! you will know more about them in Video).
 
 Detailed discription of Videos:
 - Video 1-2 : Overview and Installation (16min)
@@ -21,7 +21,7 @@ Detailed discription of Videos:
 - Video 26-27 : http package and API call
 - Video 28-35 : **World Time App Project**
 
-This last app will give you most of basic features of flutter. I highly recommend to follow this playlist. 
+This last app will give you most of basic features of flutter. [I highly recommend to follow the playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ). 
 
 ## Blogs
 
