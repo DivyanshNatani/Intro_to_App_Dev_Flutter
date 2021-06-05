@@ -25,7 +25,7 @@ This last app will give you most of basic features of flutter. [I highly recomme
 
 ## Blogs
 
-If you love reading blogs and learning more about Apps. Flutter documentation is the best possible thing to start with. Check out the [List App with Selection](https://flutter.dev/docs/get-started/codelab) Tutorial.
+If you love reading blogs and learning more about Apps. Flutter documentation is the best possible thing to start with. Refer to [Flutter Codelab](https://flutter.dev/docs/get-started/codelab-web) to get started. Check out the [List App with Selection](https://flutter.dev/docs/get-started/codelab) Tutorial.
 
 You can also check [this tutorial of solutelabs](https://www.solutelabs.com/blog/flutter-tutorial-for-beginners-step-by-step-guide).
 
