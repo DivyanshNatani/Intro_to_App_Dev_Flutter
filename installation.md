@@ -48,5 +48,7 @@ __Note__ : Setting up VS Code for Flutter is optional, you can use Android Studi
   - [[tag][!] Android Studio (not installed) , when run flutter doctor while Android Studio installed on machine](https://stackoverflow.com/questions/59647791/tag-android-studio-not-installed-when-run-flutter-doctor-while-android)
   - [Flutter does not find android sdk](https://stackoverflow.com/questions/49175231/flutter-does-not-find-android-sdk)
   - [flutter doctor --android-licenses gives a java error](https://stackoverflow.com/questions/61993738/flutter-doctor-android-licenses-gives-a-java-error/66363044)
+  - [flutter doctor --android-licenses gives a java error ALITER](https://stackoverflow.com/questions/46402772/failed-to-install-android-sdk-java-lang-noclassdeffounderror-javax-xml-bind-a)
+  
   
   
